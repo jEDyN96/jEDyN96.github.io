@@ -1,5 +1,5 @@
 .textview {
-	background-color: black;
+	background-color: white;
 	font-family: "Consolas", "Monaco", "Vera Mono", "monospace";
 	font-size: 10pt;
 	min-width: 50px;
@@ -21,7 +21,7 @@
 	border-left: 1px solid #eaeaea;
 }
 .textviewBlockCursor {
-	background: white;
+	background: red;
 	opacity: 0.4;
 }
 .ruler {
