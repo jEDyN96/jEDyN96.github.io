@@ -318,13 +318,14 @@
 	background-color: rgb(184, 103, 163);
 }
 .annotationHTML {
-	cursor: pointer;
+	cursor: move;
 	width: 16px;
 	height: 16px;
 	display: inline-block;
 	vertical-align: middle;
 	background-position: center;
 	background-repeat: no-repeat;
+	background-color: red;
 }
 .annotationHTML.error {
 	
