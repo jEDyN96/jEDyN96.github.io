@@ -9,7 +9,7 @@
 	padding: 5px 2px 2px 2px;
 }
 .textviewContent {
-  cursor: auto;
+  cursor: pointer;
 }
 .textviewLeftRuler {
 	border-right: 1px solid #eaeaea;
